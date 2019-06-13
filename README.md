@@ -5,7 +5,7 @@
 -   [Instructions](#instructions)
 -   [Contributing](#contributing)
 -   [Dependencies](#Dependencies)
--   [What I have done](#what I have done in this Project)
+-   [What I have done in this project](#what I have done in this Project)
 -   [Conclusion](#conclusion)
 
 ## Instructions
